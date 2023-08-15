@@ -1,0 +1,7 @@
+Skills:
+ 1. Terminal linux;
+ 2. Git;
+ 3. Client Servez;
+ 4. SQL;
+ 5. Postman;
+ 6. Mobile testing.
